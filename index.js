@@ -10,7 +10,6 @@ client.commands = new Collection();
 client.modules = fs.readdirSync('./commands');
 
 module.exports = client;
-
 new BetterConsoleLogger(`
        ██▒   █▓ ██▓▄▄▄█████▓ ▄▄▄       ██▓    
       ▓██░   █▒▓██▒▓  ██▒ ▓▒▒████▄    ▓██▒    

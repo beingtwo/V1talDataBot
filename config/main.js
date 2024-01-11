@@ -43,7 +43,7 @@ module.exports = {
             }
         },
         // Identification:
-        token: "process.env.DISCORD_TOKEN",
+        token: "MTE5MzA0NDEyNDM0NjA5MzYyOA.Gu9vQe.T90KArWb1NN4AtC0GWbLkWR3eng6jcLHYOIzXo",
         id: "1193044124346093628"
     },
 
