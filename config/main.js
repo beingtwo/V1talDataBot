@@ -1,5 +1,6 @@
 const { GatewayIntentBits, Partials } = require('discord.js');
 const presenceData = require('../JSON/presence.json');
+require('dotenv').config();
 
 module.exports = {
     // Client configuration:
@@ -42,7 +43,7 @@ module.exports = {
             }
         },
         // Identification:
-        token: "MTE5MzA0NDEyNDM0NjA5MzYyOA.GL_Xi0.PV_gTda1jBaqwiIXvnCDvW3cyaJHhn-_3jOtgw",
+        token: "process.env.DISCORD_TOKEN",
         id: "1193044124346093628"
     },
 
