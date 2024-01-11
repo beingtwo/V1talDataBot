@@ -1,0 +1,21 @@
+{
+    "handler": {
+        "directories": {
+            "emojis": {
+                "Developers": "<a:Developer:1132249910880780320>",
+                "Fun": "<:funny:1000642424068128779>",
+                "Information": "<:Info:1132250129085255781>",
+                "Moderation": "<a:Moderation:1132250234047705098>",
+                "Utility": "<:list:1111545309873578026>"
+            }
+        },
+        "commands": {
+            "lock-unlock": {
+                "roles_to_update": [
+                    "801045922238300190",
+                    "801045922238300190"
+                ]
+            }
+        }
+    }
+}
