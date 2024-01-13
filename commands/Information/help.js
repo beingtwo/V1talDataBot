@@ -45,7 +45,7 @@ module.exports = {
                         + '<:Info:1132250129085255781> : Information\n'
                         + '<a:Moderation:1132250234047705098> : Moderation\n'
                     )
-.setImage('https://cdn.discordapp.com/attachments/1111537445603913768/1132249344893009931/blue_bold_YouTube_intro.png')
+.setImage('https://cdn.discordapp.com/attachments/1189571218521739265/1195698176838082680/1_1_1.png?ex=65b4efb4&is=65a27ab4&hm=37f6deaa8ea5a8a4aab5b05f293945209e2b9731b4e8f24d227bb29c493cb2df&')
                     .setColor('Blurple')
             ],
             components: [
