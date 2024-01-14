@@ -49,7 +49,7 @@ module.exports = {
 
     // Database:
     database: {
-        mongodb_uri: 'mongodb+srv://V1TALDatabase-v2:<Nd4PBsg1nESN5aMB>@cluster0.5ryiipx.mongodb.net/?retryWrites=true&w=majority'
+        mongodb_uri: 'mongodb+srv://V1TALDatabase-v2:Nd4PBsg1nESN5aMB@cluster0.5ryiipx.mongodb.net/?retryWrites=true&w=majority'
     },
 
     // APIs:
