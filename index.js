@@ -1,7 +1,5 @@
 const { Client, Collection } = require('discord.js');
 const { Colors, BetterConsoleLogger } = require('discord.js-v14-helper');
-const fetch = await import('node-fetch');
-const fetch = require('node-fetch')
 const config = require('./config/main');
 const keep_alive = require('./keep_alive.js')
 
