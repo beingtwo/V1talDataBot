@@ -1,6 +1,5 @@
 const fs = require('fs');
 const { Colors, ApplicationCommandsRegister, BetterConsoleLogger } = require('discord.js-v14-helper');
-
 module.exports = (client, config) => {
     let commands = [];
 
